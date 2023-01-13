@@ -1,0 +1,32 @@
+body {background-color: rgb(24, 24, 27);}
+.aboutme1 {
+    color: white;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: 700;
+}
+.aboutme2{
+    color: rgba(209, 213, 219, 0.8);
+    font-size: 18px;
+    font-family: sans-serif;
+    margin-top: -25px;
+}
+.aboutme3{
+    color: #9ca3af;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+.aboutme4{
+    color: white;
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 700;
+}
+.test1 {
+    padding: 100px 296px 0px 296px
+}
+@media only screen and (max-width: 900px) {
+    .test1{
+    padding: 100px 26px 0px 75px
+    }
+}
